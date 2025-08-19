@@ -1,0 +1,4 @@
+*.pth
+runs
+findings
+data/flowers-102
